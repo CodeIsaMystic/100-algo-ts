@@ -1,6 +1,6 @@
-### ADDBORDER FUNCTION
+# ADDBORDER FUNCTION
 
-Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+Given a rectangular matrix of characters, add a border of asterisks(\*) to it.
 
 **Example**
 
@@ -8,6 +8,7 @@ For
 
     picture = ["abc",
            "ded"]
+
 the output should be
 
     addBorder(picture) = [
@@ -30,7 +31,7 @@ the output should be
 
 A non-empty array of non-empty equal-length strings.
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 1 ≤ picture.length ≤ 5,
 

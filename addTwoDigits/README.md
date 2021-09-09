@@ -1,6 +1,7 @@
-### ADD TWO DIGITS
+# ADD TWO DIGITS
 
 ---
+
 You are given a two-digit integer n. Return the sum of its digits.
 
 **Example**
@@ -19,13 +20,12 @@ For n = 29, the output should beaddTwoDigits(n) = 11.
 - **[execution time limit] 4 seconds (js)**
 - **[input] integer n**
 
-    A positive two-digit integer.
+  A positive two-digit integer.
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 10 ≤ n ≤ 99.
 
 - **[output] integer**
 
-    The sum of the first and second digits of the input number.
-
+  The sum of the first and second digits of the input number.

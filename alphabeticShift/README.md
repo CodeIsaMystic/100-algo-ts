@@ -1,6 +1,7 @@
-### ALPHABETIC SHIFT
+# ALPHABETIC SHIFT
 
 ---
+
 Given a string, replace each its character by the next one in the English alphabet (z would be replaced by a).
 
 **Example**
@@ -21,7 +22,7 @@ alphabeticShift(inputString) = "dsbaz".
 
 Non-empty string consisting of lowercase English characters.
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 1 ≤ inputString.length ≤ 10.
 

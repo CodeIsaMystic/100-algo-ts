@@ -1,5 +1,7 @@
-### ALL LONGEST STRINGS
+# ALL LONGEST STRINGS
+
 ---
+
 Given an array of strings, return another array containing all of its longest strings.
 
 **Example**
@@ -8,6 +10,7 @@ For inputArray = ["aba", "aa", "ad", "vcd", "aba"], the output should be
 allLongestStrings(inputArray) = ["aba", "vcd", "aba"].
 
 **Hints**
+
 - None
 
 **Input/Output**
@@ -17,7 +20,7 @@ allLongestStrings(inputArray) = ["aba", "vcd", "aba"].
 
 A non-empty array.
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 1 ≤ inputArray.length ≤ 10,
 
