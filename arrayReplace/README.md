@@ -1,7 +1,7 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
+# Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-6/mCkmbxdMsMTjBc3Bm)
 
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-6/mCkmbxdMsMTjBc3Bm)
 ---
+
 Given an array of integers, replace all the occurrences of elemToReplace with substitutionElem.
 
 **Example**
@@ -14,7 +14,7 @@ arrayReplace(inputArray, elemToReplace, substitutionElem) = [3, 2, 3].
 - **[time limit] 4000ms (js)**
 - **[input] array.integer inputArray**
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 2 ≤ inputArray.length ≤ 10,
 
@@ -22,13 +22,13 @@ arrayReplace(inputArray, elemToReplace, substitutionElem) = [3, 2, 3].
 
 - **[input] integer elemToReplace**
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 0 ≤ elemToReplace ≤ 10.
 
 - **[input] integer substitutionElem**
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 0 ≤ substitutionElem ≤ 10.
 
