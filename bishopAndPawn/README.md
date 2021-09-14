@@ -1,7 +1,7 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
+# Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-9/AACpNbZANCkhHWNs3)
 
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-9/AACpNbZANCkhHWNs3)
 ---
+
 Given the positions of a white bishop and a black pawn on the standard chess board, determine whether the bishop can capture the pawn in one move.
 
 The bishop has no restrictions in distance for each move, but is limited to diagonal movement. Check out the example below to see how it can move:
@@ -11,12 +11,13 @@ The bishop has no restrictions in distance for each move, but is limited to diag
 **Example**
 
 - For bishop = "a1" and pawn = "c3", the output should be
-bishopAndPawn(bishop, pawn) = true.
+  bishopAndPawn(bishop, pawn) = true.
 
 ![](https://codefightsuserpics.s3.amazonaws.com/tasks/bishopAndPawn/img/ex1.jpg?_tm=1493360096945)
 
 **Hint**
--   parseInt()
+
+- parseInt()
 
 **Input/Output**
 
