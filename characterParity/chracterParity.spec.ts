@@ -1,6 +1,6 @@
 import { characterParity } from "./characterParity"
 
-describe(characterParity.name, () => {
+xdescribe(characterParity.name, () => {
   it("Test 1", () => {
     // arrange
     const data = "5"
