@@ -1,6 +1,6 @@
 import { centuryFromYear } from "./centuryFromYear"
 
-describe(centuryFromYear.name, () => {
+xdescribe(centuryFromYear.name, () => {
   it("Test 1", () => {
     // arrange
     const data = 1905
