@@ -1,6 +1,6 @@
 import { depositProfit } from "./depositProfit"
 
-describe(depositProfit.name, () => {
+xdescribe(depositProfit.name, () => {
   it("Test 1", () => {
     // arrange
     const deposit = 100

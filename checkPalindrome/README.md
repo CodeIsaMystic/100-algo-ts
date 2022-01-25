@@ -1,23 +1,24 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
 ##### Algorithm Challenge Available At [CodeFights](https://www.youtube.com/watch?v=IVoOmPDCHCM)
+
 ---
+
 Given the string, check if it is a palindrome.
 
 **Example**
 
 - For inputString = "aabaa", the output should be
-checkPalindrome(inputString) = true;
+  checkPalindrome(inputString) = true;
 - For inputString = "abac", the output should be
-checkPalindrome(inputString) = false;
+  checkPalindrome(inputString) = false;
 - For inputString = "a", the output should be
-checkPalindrome(inputString) = true.
+  checkPalindrome(inputString) = true.
 
 **Hints**
--   toLowerCase()
--   split()
--   reverse()
--   join()
+
+- toLowerCase()
+- split()
+- reverse()
+- join()
 
 **Input/Output**
 
@@ -26,7 +27,7 @@ checkPalindrome(inputString) = true.
 
 A non-empty string consisting of lowercase characters.
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 1 ≤ inputString.length ≤ 105.
 

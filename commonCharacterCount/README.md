@@ -1,7 +1,7 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-3/JKKuHJknZNj4YGL32)
+
 ---
+
 Given two strings, find the number of common characters between them.
 
 **Example**
@@ -12,8 +12,9 @@ commonCharacterCount(s1, s2) = 3.
 Strings have 3 common characters - 2 "a"s and 1 "c".
 
 **Hints**
--   split()
--   hasOwnProperty()
+
+- split()
+- hasOwnProperty()
 
 **Input/Output**
 
@@ -22,7 +23,7 @@ Strings have 3 common characters - 2 "a"s and 1 "c".
 
 A string consisting of lowercase latin letters a-z.
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 1 ≤ s1.length ≤ 15.
 
@@ -30,7 +31,7 @@ A string consisting of lowercase latin letters a-z.
 
 A string consisting of lowercase latin letters a-z.
 
-*Guaranteed constraints:*
+_Guaranteed constraints:_
 
 1 ≤ s2.length ≤ 15.
 
